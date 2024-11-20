@@ -1,13 +1,5 @@
-# RAGNet
-- The implementation of "Two-Stage Single Image Reflection Removal with Reflection-Aware Guidance".
 
-# Prerequisites  
-- The code has been test on a PC with following environment
-  - Ubuntu 18.04
-  - Python 3.7.5
-  - PyTorch 1.2.0
-  - cudatoolkit 10.0
-  - NVIDIA RTX 2080Ti
+# Deep Learning for Reflection-less Images
 
 # Datasets
 ### Training datasets
